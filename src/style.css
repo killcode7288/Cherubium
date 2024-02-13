@@ -73,7 +73,7 @@ p{
     font-family: 'Montserrat', sans-serif
 }
 .cloud{
-background: url('src/clouds.gif') center center fixed;
+background: url('clouds.gif') center center fixed;
 background-size:cover;
 height: 100%;
 }
