@@ -53,6 +53,10 @@ body {
 .text{
     font-family: 'Montserrat', sans-serif;
 }
+.new{
+    background-color: black;
+    height: 100vh;
+}
 p{
     text-align: center;
 
